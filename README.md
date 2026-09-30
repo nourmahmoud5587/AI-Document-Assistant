@@ -105,6 +105,9 @@ Your browser will open at `http://localhost:8501`.
 
 MIT License
 
+## Demo
+
+![Screenshot](screenshot.png)
 ## Author
 
 **Nour Mahmoud Mohamed** – nourmahmoud5587~@gmail.com - https://www.linkedin.com/in/nour-mahmoud-a84590284/
