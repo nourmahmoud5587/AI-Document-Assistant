@@ -94,13 +94,6 @@ Your browser will open at `http://localhost:8501`.
 - The first run downloads the embedding model, so it may take a minute.
 - If the answer isn't in the document, the assistant will say it doesn't know.
 
-## Roadmap
-
-- [ ] Support DOCX and TXT files
-- [ ] Chat history
-- [ ] Multiple documents at once
-- [ ] Model selection from the UI
-
 ## License
 
 MIT License
